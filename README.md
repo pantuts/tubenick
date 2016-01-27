@@ -11,6 +11,7 @@ This is a revamp of my previous script at [sourceforge](http://sourceforge.net/p
 So why did I do it again even there are plenty of great tools available? Simple, I'm getting rusty so practice is needed.
 
 This script doesn't rely on any external libraries/modules  or api, it just uses **python3 standard library**.
+Tested only on Gnu/Linux box.
 
 >**Yeah**
  Honestly, you don't need this one. It's just only to show how to download videos from youtube with python. If you want something cool, try [youtube-dl](https://rg3.github.io/youtube-dl/).
